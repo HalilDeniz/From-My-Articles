@@ -1,6 +1,6 @@
 # Assessing Password Strength with Machine Learning in Python
 
-<img src="password-security-with-machine-learning-by-halildeniz.png"</img>
+<img src="password-security-with-machine-learning-by-halildeniz.png"></img>
 
 This project is a Python script that uses machine learning techniques to assess the security level of passwords. It is developed to help users enhance their password security.
 
