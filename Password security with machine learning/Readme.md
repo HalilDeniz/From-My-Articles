@@ -26,7 +26,7 @@ The script will prompt the user to enter a password and then evaluate whether th
 - `strong_passwords.txt`: Contains a list of strong passwords.
 - `weak_passwords.txt`: Contains a list of weak passwords.
 
-These files are used for training the model and are available on the GitHub page.
+These files are used for training the model and are available on the my [Website](https://denizhalil.com/2024/02/02/assessing-password-strength-with-machine-learning-in-python/).
 
 ## Contributing
 
